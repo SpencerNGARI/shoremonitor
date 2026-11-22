@@ -1,0 +1,2 @@
+study_area,year,scene_id,acquisition_date,cloud_cover,mndwi_threshold,min_water_polygon_area_m2,number_water_polygons_raw,number_water_polygons_filtered,number_shoreline_features,shoreline_length_km,water_area_km2,land_area_km2,invalid_pixels,water_cover_percent,land_cover_percent
+mombasa_test,2024,S2A_MSIL2A_20240529T074541_R049_T37MER_20240529T123614,2024-05-29 07:45:41.024000+00:00,0.122262,0.0,10000,1397,14,14,272.14,295.2072,187.0198,95016,61.217476416708315,38.782523583291685

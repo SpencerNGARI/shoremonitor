@@ -1,0 +1,2 @@
+scene_id,datetime,cloud_cover,mgrs_tile,platform,collection
+S2A_MSIL2A_20240529T074541_R049_T37MER_20240529T123614,2024-05-29 07:45:41.024000+00:00,0.122262,37MER,Sentinel-2A,sentinel-2-l2a

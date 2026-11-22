@@ -1,0 +1,25 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mombasa-Nyali-Bamburi-Shanzu",
+        "country": "Kenya",
+        "analysis_level": "detailed_hotspot"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [39.65, -4.10],
+            [39.85, -4.10],
+            [39.85, -3.90],
+            [39.65, -3.90],
+            [39.65, -4.10]
+          ]
+        ]
+      }
+    }
+  ]
+}
