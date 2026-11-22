@@ -1,0 +1,2 @@
+review_id,location_name,issue_type,severity,observation,recommended_action,review_status
+QA_NODATA_001,Inland and coastal white gaps inspected in QGIS,Suspected coastal NoData-edge artifact,needs_investigation,"red shoreline candidates do not outline inland white gaps, but appear to follow the edges of coastal white spots.",Inspect a coastal example closely and verify the displayed layer and underlying raster values before changing extraction logic.,unresolved
